@@ -8,6 +8,7 @@ MailRx Express is a comprehensive full-stack application designed to streamline 
 ## How It's Made:
 
 **Tech used:** EJS, Tailwind, JavaScript, MongoDB
+
 Explore the architecture of MailRx Express, a fullstack mail order pharmacy onboarding app designed for efficiency and security. Utilizing EJS for dynamic HTML, I seamlessly integrate JavaScript to enhance user interactions. The backend framework is powered by Node.js and Express, ensuring swift and scalable performance. Passport.js, a key component of my authentication strategy, facilitates a secure user login process. This authentication middleware seamlessly integrates with the application, allowing for flexible and modular authentication strategies. Tailwind CSS adds a touch of professionalism with a clean and visually appealing design. Finally, MongoDB, is my secure data repository of choice for patient information. MailRx Express embodies a synthesis of industry-leading technologies, delivering a seamless and professional pharmacy onboarding experience.
 
 
