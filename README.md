@@ -9,11 +9,11 @@ MailRx Express is a comprehensive full-stack application designed to streamline 
 
 **Tech used:** EJS, Tailwind, JavaScript, MongoDB
 
-Explore the architecture of MailRx Express, a fullstack mail order pharmacy onboarding app designed for efficiency and security. Utilizing EJS for dynamic HTML, I seamlessly integrate JavaScript to enhance user interactions. The backend framework is powered by Node.js and Express, ensuring swift and scalable performance. Passport.js, a key component of my authentication strategy, facilitates a secure user login process. This authentication middleware seamlessly integrates with the application, allowing for flexible and modular authentication strategies. Tailwind CSS adds a touch of professionalism with a clean and visually appealing design. Finally, MongoDB, is my secure data repository of choice for patient information. MailRx Express embodies a synthesis of industry-leading technologies, delivering a seamless and professional pharmacy onboarding experience.
+Explore the architecture of MailRx Express, a fullstack mail order pharmacy onboarding app designed for efficiency and security. Utilizing EJS for dynamic HTML, I seamlessly integrate JavaScript to enhance user interactions. The backend framework is powered by Node.js and Express, ensuring swift and scalable performance. Passport.js, a key component of my authentication strategy, facilitates a secure user login process. This authentication middleware seamlessly integrates with the application, allowing for flexible and modular authentication strategies. Tailwind CSS adds a touch of professionalism with a clean and visually appealing design. Finally, MongoDB, is my secure data repository of choice for patient information. MailRx Express embodies the several technologies, delivering a seamless and professional pharmacy onboarding experience.
 
 
 
-## Optimizations
+## Future Optimizations
 
 As I continuously strive to enhance the MailRx Express experience, I have exciting plans to introduce an onboarding form feature in upcoming releases. This onboarding form will revolutionize user engagement by providing a streamlined process for gathering essential information such as patient details (name, birthday, gender, etc.) and prescriber information. My vision is to create a seamless onboarding experience that not only captures necessary data efficiently but also ensures the security and privacy of user information. Stay tuned for updates as I work diligently to bring this valuable addition to MailRx Express, making the onboarding process even more user-friendly and comprehensive.
 
