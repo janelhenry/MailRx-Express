@@ -3,7 +3,7 @@ MailRx Express is a comprehensive full-stack application designed to streamline 
 
 **Link to project:** https://www.youtube.com/watch?v=dY8qlKfYIsQ
 
-![Local Img]([/imgs/MailRx.png](https://drive.google.com/file/d/1OEDa69NliJlVfwE0avq4PhQei7S8FmRm/view?usp=sharing))
+![Local Img]([(https://drive.google.com/file/d/1OEDa69NliJlVfwE0avq4PhQei7S8FmRm/view?usp=sharing)](https://drive.google.com/uc?id=1OEDa69NliJlVfwE0avq4PhQei7S8FmRm))
 
 ## How It's Made:
 
