@@ -15,7 +15,7 @@ Explore the architecture of MailRx Express, a fullstack mail order pharmacy onbo
 
 ## Future Optimizations
 
-As I continuously strive to enhance the MailRx Express experience, I have exciting plans to introduce an onboarding form feature in upcoming releases. This onboarding form will revolutionize user engagement by providing a streamlined process for gathering essential information such as patient details (name, birthday, gender, etc.) and prescriber information. My vision is to create a seamless onboarding experience that not only captures necessary data efficiently but also ensures the security and privacy of user information. Stay tuned for updates as I work diligently to bring this valuable addition to MailRx Express, making the onboarding process even more user-friendly and comprehensive.
+As I continuously strive to enhance the MailRx Express experience, I have exciting plans to introduce an onboarding form feature in upcoming releases. This onboarding form will revolutionize user engagement by providing a streamlined process for gathering essential information such as patient details (name, birthday, gender, etc.) and prescriber information. My vision is to create a seamless onboarding experience that not only captures necessary data efficiently but also ensures the security and privacy of user information. Stay tuned for updates as I work to bring this valuable addition to MailRx Express, making the onboarding process even more user-friendly and comprehensive.
 
 ## Lessons Learned:
 
